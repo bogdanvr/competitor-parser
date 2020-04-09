@@ -4,7 +4,7 @@ Created on Fri Oct 25 22:58:11 2019
 
 @author: bogdan
 
-
+We get all categories of goods, then to go through them with a file "bs-el-pr.py"
 
 """
 
